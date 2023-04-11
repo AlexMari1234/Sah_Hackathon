@@ -1,0 +1,14 @@
+button {
+    background-color: #4CAF50; /* culoarea de fundal a butonului */
+    color: white; /* culoarea textului */
+    font-size: 20px; /* dimensiunea textului */
+    padding: 10px 20px; /* spațiul în jurul textului */
+    border: none; /* eliminarea bordurii butonului */
+    border-radius: 5px; /* adăugarea marginilor rotunjite */
+    cursor: pointer; /* transformarea cursorului la atingerea butonului */
+  }
+  
+  button:hover {
+    background-color: #3e8e41; /* schimbarea culorii de fundal la trecerea cursorului peste buton */
+  }
+  
